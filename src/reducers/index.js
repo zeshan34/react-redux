@@ -62,7 +62,7 @@ const initialCalendarState = {
               }
               
 
-
+            }
   }
 
-  export default calender;
+export default calender;
